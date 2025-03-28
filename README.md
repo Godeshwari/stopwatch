@@ -16,6 +16,7 @@ The Stopwatch is a simple yet efficient web-based time-tracking tool built using
 ✅ Fully Responsive: Works on desktops, tablets, and mobile devices
 
 *Technologies Used
+
 1.HTML for structuring the layout
 2.CSS for styling and animations
 3.JavaScript for stopwatch functionality
