@@ -5,9 +5,13 @@ The Stopwatch is a simple yet efficient web-based time-tracking tool built using
 
 *Features
 ✅ Start, Pause, and Reset: Easily control the stopwatch with intuitive buttons.
+
 ✅ Lap Functionality (Optional): Track multiple time intervals.
+
 ✅ Accurate Time Display: Displays elapsed time in minutes, seconds, and milliseconds.
+
 ✅ Modern UI: Clean and minimalistic design with interactive animations.
+
 ✅ Fully Responsive: Works on desktops, tablets, and mobile devices
 
 *Technologies Used
